@@ -3,7 +3,7 @@ Budget-Tracker-Vertx - The repository for the server-side code for Budget Tracke
 
 Database API
 
-budget {
+  budget {
   owners : [
    {
       id: 'asdf@gmail.com',
