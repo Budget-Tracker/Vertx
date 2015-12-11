@@ -5,4 +5,4 @@ Budget-Tracker-Vertx - The repository for the server-side code for Budget Tracke
 Check out the WIKI  (https://github.com/Budget-Tracker/Vertx/wiki)
 
 
-[![Build Status](https://travis-ci.org/budget-tracker/vertx.svg?branch=master)](https://travis-ci.org/budget-tracker/vertx)
+[![Build Status](https://travis-ci.org/Budget-Tracker/Vertx.svg?branch=master)](https://travis-ci.org/Budget-Tracker/Vertx)
