@@ -3,3 +3,4 @@ jdk:
   - oraclejdk8
 notifications:
   slack: $SLACK_NOTIFICATION
+before_script: echo $DUMMY
