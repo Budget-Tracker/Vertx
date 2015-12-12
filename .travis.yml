@@ -1,5 +1,6 @@
 language: java
 jdk:
   - oraclejdk8
+  
 notifications:
   slack: $TEAM:$TOKEN
