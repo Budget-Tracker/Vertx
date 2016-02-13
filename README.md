@@ -1,5 +1,5 @@
 # Vertx
-Budget-Tracker-Vertx - The repository for the server-side code for Budget Tracker, co-op project with @megamegax.
+Budget-Tracker-Vertx - The repository for the server-side code for Budget Tracker.
 
 
 Check out the WIKI  (https://github.com/Budget-Tracker/Vertx/wiki)
